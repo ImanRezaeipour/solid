@@ -1,0 +1,9 @@
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\bin\Debug\02-ShapeDrawing.exe.config
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\bin\Debug\02-ShapeDrawing.exe
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\bin\Debug\02-ShapeDrawing.pdb
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\02-ShapeDrawing.csprojResolveAssemblyReference.cache
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\_02_ShapeDrawing.Form1.resources
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\_02_ShapeDrawing.Properties.Resources.resources
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\02-ShapeDrawing.csproj.GenerateResource.Cache
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\02-ShapeDrawing.exe
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\02-ShapeDrawing\obj\Debug\02-ShapeDrawing.pdb

@@ -1,0 +1,17 @@
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\01-FileReader.exe.config
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\01-FileReader.exe
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\01-FileReader.pdb
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\Castle.Core.dll
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\Castle.Windsor.dll
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\Castle.Core.xml
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\bin\Debug\Castle.Windsor.xml
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader.csprojResolveAssemblyReference.cache
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\MainWindow.baml
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\MainWindow.g.cs
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\App.g.cs
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader_MarkupCompile.cache
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader.g.resources
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\_01_FileReader.Properties.Resources.resources
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader.csproj.GenerateResource.Cache
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader.exe
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\01-FileReader\obj\Debug\01-FileReader.pdb

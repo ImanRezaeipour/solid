@@ -1,0 +1,1 @@
+H:\Job-Study\Courses For Teaching\Course Content\Architecture of Enterprise .NET Applications\Example\SOLID\SOLID\06-Notification\bin\Debug\06-Notification.exe.config
